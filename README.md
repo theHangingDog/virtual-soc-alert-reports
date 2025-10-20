@@ -10,9 +10,9 @@ Each report simulates a real-world SOC investigation — from alert triage to fi
 
 
 
-/alerts
-├── EventID@93 - SOC146 - Phishing Mail Detected - Excel 4.0 Macros
-
+## ⚠️ alerts
+- EventID@93 - SOC146 - Phishing Mail Detected - Excel 4.0 Macros
+- EventID@234- SOC176 - RDP Brute Force Detected
 
 Each alert report includes:
 
