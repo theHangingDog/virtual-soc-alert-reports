@@ -6,13 +6,10 @@ Each report simulates a real-world SOC investigation — from alert triage to fi
 
 ---
 
-## 📂 Repository Structure
-
-
-
 ## ⚠️ alerts
 - EventID@93 - SOC146 - Phishing Mail Detected - Excel 4.0 Macros
 - EventID@234- SOC176 - RDP Brute Force Detected
+- EventID@263 - SOC287 - Arbitrary File Read on Checkpoint Security Gateway - CVE-2024-24919
 
 Each alert report includes:
 
