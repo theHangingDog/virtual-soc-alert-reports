@@ -10,7 +10,9 @@ Each report simulates a real-world SOC investigation — from alert triage to fi
 - EventID@93 - SOC146 - Phishing Mail Detected - Excel 4.0 Macros
 - EventID@234- SOC176 - RDP Brute Force Detected
 - EventID@263 - SOC287 - Arbitrary File Read on Checkpoint Security Gateway - CVE-2024-24919
-- EventID235 - SOC127 - SQL Injection Detected
+- EventID@235 - SOC127 - SQL Injection Detected
+- EventID@316 - Lumma Stealer - DLL Side-Loading via Click Fix Phishing
+
 
 Each alert report includes:
 
