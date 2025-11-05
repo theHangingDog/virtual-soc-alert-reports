@@ -12,6 +12,7 @@ Each report simulates a real-world SOC investigation — from alert triage to fi
 - EventID@263 - SOC287 - Arbitrary File Read on Checkpoint Security Gateway - CVE-2024-24919
 - EventID@235 - SOC127 - SQL Injection Detected
 - EventID@316 - Lumma Stealer - DLL Side-Loading via Click Fix Phishing
+- EventID@313 - SOC335 - CVE-2024-49138 Exploitation Detected
 
 
 Each alert report includes:
